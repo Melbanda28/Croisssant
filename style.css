@@ -1,0 +1,25 @@
+body {
+  background: yellow;
+}
+h1 {
+  text-align: center;
+}
+
+.img {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+.contact {
+  display: block;
+  text-align: center;
+}
+footer {
+  text-align: center;
+  display: block;
+}
+footer a {
+  margin: 0 10px;
+  color: black;
+}
